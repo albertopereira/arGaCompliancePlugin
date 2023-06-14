@@ -30,7 +30,7 @@ This means you have to recreate the path in the plugin, by creating a new folder
 
 ![Screenshot of the folder and file to create](./images/piwikpro_6.png)
 
-After that, copy the original file's content (the one from _/app/qubit/\_footer.php_), and add, at the top, right below the _\<footer\>_ tag, the code from the _Piwik_ dashboard setup.
+After that, copy the original file's content (the one from _/app/qubit/\_footer.php_), and add, at the top, right below the _\<footer\>_ tag, the tracking code from the _Matomo_ dashboard setup.
 
 ![Screenshot of the code to add](./images/matomo_4.png)
 
